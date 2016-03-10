@@ -1,0 +1,6 @@
+{
+    "name": "datasift/PHP-Fuzz-tester",
+    "description": "Forked Fuzz testing tool from drodil/PHP-Fuzz-tester",
+    "homepage": "git@github.com:drodil/PHP-Fuzz-tester.git",
+
+}
